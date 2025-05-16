@@ -4,6 +4,7 @@
 # local environment files
 .env.local
 .env.*.local
+dev.db
 
 # dependencies
 /node_modules
